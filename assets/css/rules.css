@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=BBH+Hegarty&family=Rubik:ital,wght@0,300..900;1,300..900&family=Zalando+Sans+SemiExpanded:ital,wght@0,200..900;1,200..900&display=swap');
+
+:root{
+
+    scroll-behavior: smooth;
+
+    --ff: "Zalando Sans SemiExpanded", sans-serif;
+    --ff-accent: "BBH Hegarty", sans-serif;
+
+    --border-radius: 1rem;
+    --flex-dir: row;
+    --gap: 1rem;
+    --fs: 1em;
+    --width: 90%;
+    --grid-template: repeat(auto-fit, minmax(min(15rem, 100%), 1fr));
+    --easing: cubic-bezier(0.21, -0.04, 0.18, 1.03);
+
+    --clr-neutral-100: hsl(0, 0%, 100%);
+    --clr-neutral-200: hsl(0, 0%, 90%);
+    --clr-neutral-300: hsl(0, 0%, 75%);
+    --clr-neutral-400: hsl(0, 0%, 60%);
+    --clr-neutral-500: hsl(0, 0%, 50%);
+    --clr-neutral-600: hsl(0, 0%, 40%);
+    --clr-neutral-700: hsl(0, 0%, 30%);
+    --clr-neutral-750: hsl(0, 0%, 20%);
+    --clr-neutral-800: hsl(0, 0%, 10%);
+    --clr-neutral-900: hsl(0, 0%, 0%);
+
+    --accent: hsl(357, 84%, 51%);
+    --adjacent: hsl(44, 100%, 50%);
+    --adjacent2: hsl(345, 100%, 50%);
+
+    --gradient: linear-gradient(var(--accent), var(--adjacent));
+  
+    --background: var(--clr-neutral-100);
+    --forground: var(--clr-neutral-400);
+    --surface: var(--clr-neutral-900);
+    
+@media (prefers-color-scheme: dark) {
+    --background: var(--clr-neutral-900);
+    --forground: var(--clr-neutral-700);
+    --surface: var(--clr-neutral-100);
+} 
+
+[data-theme="dark"] {
+    --background: var(--clr-neutral-800);
+    --forground: var(--clr-neutral-700);
+    --surface: var(--clr-neutral-100);
+}
+  
+[data-theme="light"] {
+    --background: var(--clr-neutral-100);
+    --forground: var(--clr-neutral-400);
+    --surface: var(--clr-neutral-900);
+}
+
+@media (width > 50em){
+
+    --border-radius: .75rem;
+    --flex-dir: column;
+    --gap: .5rem;
+    --fs: .75em;
+    --width: 80%;
+
+}
+}
+
+::-moz-selection {
+    color: var(--background);
+    background: var(--accent);
+    }
+    
+    ::selection {
+    color: var(--background);
+    background: var(--accent);
+    }
+    
+    
+    /* Scroll Bar */
+    ::-webkit-scrollbar {
+    width: .25rem;
+    }
+    
+    ::-webkit-scrollbar-track {
+    background: hsl(from var(--background) h s l / .25);
+    }
+    
+    ::-webkit-scrollbar-thumb {
+      background: hsl(from var(--accent) h s l / .25);
+      border-radius: 100vw;
+      transition: all 250ms ease-in-out;
+    }
+    
+    ::-webkit-scrollbar-thumb:hover {
+      background: hsl(from var(--accent) h s l / 1);
+    }
+    

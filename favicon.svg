@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="5.6388001mm"
+   height="5.6388001mm"
+   viewBox="0 0 5.6388001 5.6388001"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   sodipodi:docname="favicon.svg"
+   inkscape:export-batch-path="/run/media/gobadri/B594-A433/Work/Rejected"
+   inkscape:export-batch-name="Final Logo"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="16.22695"
+     inkscape:cx="-17.131994"
+     inkscape:cy="15.868663"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:page
+       x="1.92277e-06"
+       y="9.2869783e-07"
+       width="5.6388001"
+       height="5.6388001"
+       id="page1"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient318"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#eb1b26;stop-opacity:1;"
+         offset="0"
+         id="stop318" />
+      <stop
+         style="stop-color:#cf373d;stop-opacity:1;"
+         offset="1"
+         id="stop319" />
+    </linearGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath245">
+      <path
+         id="path246"
+         style="opacity:1;fill:url(#linearGradient246);fill-rule:evenodd;stroke-width:0.999998;stroke-linejoin:round"
+         d="m -929.38964,555.24442 h 333.82281 v 140.84732 h -333.82281 z" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient318"
+       id="linearGradient246"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.87617546,0,0,0.369678,-94.413489,394.37244)"
+       x1="-952.97827"
+       y1="625.66785"
+       x2="-571.97827"
+       y2="625.66785" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath322">
+      <path
+         id="path323"
+         style="opacity:1;fill:url(#linearGradient323);fill-rule:evenodd;stroke-width:0.999998;stroke-linejoin:round"
+         d="m -952.97826,435.16785 h 381 v 381 h -381 z" />
+    </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient318"
+       id="linearGradient323"
+       gradientUnits="userSpaceOnUse"
+       x1="-952.97827"
+       y1="625.66785"
+       x2="-571.97827"
+       y2="625.66785" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(652.15887,44.815901)">
+    <path
+       id="path10"
+       style="baseline-shift:baseline;display:inline;overflow:visible;vector-effect:none;fill:#eb1b26;fill-opacity:1;fill-rule:evenodd;stroke-width:0.999994;enable-background:accumulate;stop-color:#000000"
+       d="m -649.33955,-44.319136 c -1.00259,0 -1.82176,0.819337 -1.82176,1.821936 0,0.475288 0.1896,0.944259 0.53364,1.288299 l 0.42885,-0.429029 c -0.22554,-0.22554 -0.35595,-0.548622 -0.35595,-0.85927 0,-0.674783 0.54044,-1.215356 1.21522,-1.215356 0.67478,0 1.21532,0.540573 1.21532,1.215356 0,0.268474 -0.0478,0.416232 -0.17518,0.608595 -0.0976,0.147472 -0.25243,0.316794 -0.46786,0.536277 l -0.81924,-0.819237 -0.42885,0.42903 0.81991,0.819864 -0.81991,0.819954 0.42885,0.428852 0.82,-0.819955 0.82,0.819955 0.42885,-0.428852 -0.82022,-0.820222 c 0.2257,-0.228066 0.40501,-0.420637 0.5442,-0.630896 0.18065,-0.272889 0.27602,-0.582822 0.27602,-0.943365 0,-1.002599 -0.81929,-1.821936 -1.82189,-1.821936 z" />
+  </g>
+</svg>
